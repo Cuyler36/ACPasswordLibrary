@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ACPasswordLibrary.CommandLine.AnimalCrossing": {
+      "commandName": "Project",
+      "commandLineArgs": "-m Decode AwweB@@@@@@@@@@@@@@@@@@@@@@@"
+    }
+  }
+}

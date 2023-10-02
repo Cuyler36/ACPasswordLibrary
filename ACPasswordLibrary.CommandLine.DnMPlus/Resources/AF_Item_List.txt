@@ -1,0 +1,2210 @@
+1000	spooky wardrobe
+1004	classic wardrobe
+1008	blue wardrobe
+100C	office locker
+1010	Jingle wardrobe
+1014	regal armoire
+1018	cabana wardrobe
+101C	cabin wardrobe
+1020	lovely armoire
+1024	green wardrobe
+1028	pear wardrobe
+102C	ranch wardrobe
+1030	blue cabinet
+1034	modern wardrobe
+1038	exotic wardrobe
+103C	Jingle dresser
+1040	regal dresser
+1044	cabana dresser
+1048	cabin dresser
+104C	lovely dresser
+1050	spooky dresser
+1054	green dresser
+1058	pear dresser
+105C	ranch dresser
+1060	classic vanity
+1064	blue bureau
+1068	modern dresser
+106C	exotic bureau
+1070	kiddie dresser
+1074	kiddie bureau
+1078	kiddie wardrobe
+107C	dresser
+1080	tansu
+1084	sewing box
+1088	fan
+108C	paper lantern
+1090	tea table
+1094	shogi board
+1098	screen
+109C	zabuton
+10A0	bus stop
+10A4	froggy chair
+10A8	lily-pad table
+10AC	refrigerator
+10B0	chest
+10B4	rack
+10B8	red sofa
+10BC	red armchair
+10C0	hibachi
+10C4	stove
+10C8	cream sofa
+10CC	tea tansu
+10D0	pink kotatsu
+10D4	blue kotatsu
+10D8	folk guitar
+10DC	country guitar
+10E0	rock guitar
+10E4	hinaningyo
+10E8	Papa bear
+10EC	Mama bear
+10F0	Baby bear
+10F4	classic hutch
+10F8	classic chair
+10FC	classic desk
+1100	classic table
+1104	classic cabinet
+1108	rocking chair
+110C	regal cupboard
+1110	writing desk
+1114	Keiko figurine
+1118	Yuki figurine
+111C	Yoko figurine
+1120	Emi figurine
+1124	Maki figurine
+1128	Naomi figurine
+112C	globe
+1130	regal chair
+1134	regal table
+1138	retro TV
+113C	eagle pole
+1140	raven pole
+1144	bear pole
+1148	frog woman pole
+114C	taiko drum
+1150	space heater
+1154	retro stereo
+1158	cabana armchair
+115C	classic sofa
+1160	lovely end table
+1164	lovely armchair
+1168	ivory piano
+116C	lovely lamp
+1170	lovely kitchen
+1174	lovely chair
+1178	lovely bed
+117C	classic clock
+1180	cabana bed
+1184	green golf bag
+1188	white golf bag
+118C	blue golf bag
+1190	regal bookcase
+1194	writing chair
+1198	ranch couch
+119C	ranch armchair
+11A0	ranch tea table
+11A4	ranch hutch
+11A8	ranch bookcase
+11AC	ranch chair
+11B0	ranch bed
+11B4	ranch table
+11B8	computer
+11BC	office desk
+11C0	Master Sword
+11C4	N logo
+11C8	vibraphone
+11CC	biwa lute
+11D0	conga drum
+11D4	extinguisher
+11D8	ruby econo-chair
+11DC	gold econo-chair
+11E0	jade econo-chair
+11E4	gold stereo
+11E8	folding chair
+11EC	lovely vanity
+11F0	birdcage
+11F4	timpano drum
+11F8	nice speaker
+11FC	birthday cake
+1200	school desk
+1204	graffiti desk
+1208	towel desk
+120C	tall cactus
+1210	round cactus
+1214	classic bed
+1218	wide-screen TV
+121C	lovely table
+1220	kadomatsu
+1224	kagamimochi
+1228	low lantern
+122C	tall lantern
+1230	pond lantern
+1234	office chair
+1238	cubby hole
+123C	letter cubby
+1240	heavy chair
+1244	school chair
+1248	towel chair
+124C	science table
+1250	stepstool
+1254	shrine lantern
+1258	barrel
+125C	keg
+1260	vaulting horse
+1264	glass-top table
+1268	alarm clock
+126C	tulip table
+1270	daffodil table
+1274	iris table
+1278	blue vase
+127C	tulip chair
+1280	daffodil chair
+1284	iris chair
+1288	elephant slide
+128C	toilet
+1290	super toilet
+1294	pine table
+1298	pine chair
+129C	tea vase
+12A0	red vase
+12A4	sewing machine
+12A8	billiard table
+12AC	famous painting
+12B0	lovely painting
+12B4	healing painting
+12B8	moving painting
+12BC	flowery painting
+12C0	common painting
+12C4	quaint painting
+12C8	dainty painting
+12CC	amazing painting
+12D0	strange painting
+12D4	rare painting
+12D8	pleasant feeling painting
+12DC	perfect painting
+12E0	fine painting
+12E4	worthy painting
+12E8	pineapple bed
+12EC	orange chair
+12F0	unused dresser
+12F4	lemon table
+12F8	apple TV
+12FC	table tennis
+1300	harp
+1304	cabin clock
+1308	train set
+130C	water bird
+1310	wobbelina
+1314	unused monkey
+1318	slot machine
+131C	exotic bench
+1320	exotic chair
+1324	exotic chest
+1328	exotic lamp
+132C	caladium
+1330	lady palm
+1334	exotic screen
+1338	exotic table
+133C	djimbe drum
+1340	modern bed
+1344	modern den chair
+1348	modern cabinet
+134C	modern desk
+1350	modern sofa
+1354	modern table
+1358	blue bed
+135C	blue bench
+1360	blue chair
+1364	blue dresser
+1368	blue bookcase
+136C	blue table
+1370	green bed
+1374	green bench
+1378	green chair
+137C	green pantry
+1380	green counter
+1384	green lamp
+1388	green table
+138C	cabin bed
+1390	cabin couch
+1394	cabin armchair
+1398	cabin bookcase
+139C	cabin low table
+13A0	aloe
+13A4	bromeliaceae
+13A8	coconut palm
+13AC	snake plant
+13B0	dracaena
+13B4	rubber tree
+13B8	pothos
+13BC	fan palm
+13C0	grapefruit table
+13C4	lime chair
+13C8	weeping fig
+13CC	corn plant
+13D0	croton
+13D4	pachira
+13D8	cactus
+13DC	metronome
+13E0	deer scare
+13E4	pine bonsai
+13E8	mugho bonsai
+13EC	barber's pole
+13F0	ponderosa bonsai
+13F4	plum bonsai
+13F8	giant dharma
+13FC	dharma
+1400	mini-dharma
+1404	quince bonsai
+1408	azalea bonsai
+140C	jasmine bonsai
+1410	executive toy
+1414	traffic cone
+1418	striped cone
+141C	orange cone
+1420	cola machine
+1424	maple bonsai
+1428	hawthorn bonsai
+142C	holly bonsai
+1430	barricade
+1434	fence
+1438	plastic fence
+143C	fence and sign
+1440	soda machine
+1444	manhole cover
+1448	pop machine
+144C	brown drum
+1450	green drum
+1454	red drum
+1458	juice machine
+145C	iron frame
+1460	trash can
+1464	garbage pail
+1468	watermelon chair
+146C	melon chair
+1470	watermelon table
+1474	robotic  flagman
+1478	garbage can
+147C	trash bin
+1480	violin
+1484	bass
+1488	cello
+148C	ebony piano
+1490	zen basin
+1494	handcart
+1498	wash basin
+149C	jack-o'-lantern
+14A0	warning sign
+14A4	detour arrow
+14A8	garden stone
+14AC	standing stone
+14B0	route sign
+14B4	men working sign
+14B8	caution sign
+14BC	temple basin
+14C0	spooky bed
+14C4	jack-in-the-box
+14C8	spooky chair
+14CC	unused chair
+14D0	spooky bookcase
+14D4	spooky sofa
+14D8	spooky table
+14DC	lunar lander
+14E0	satellite
+14E4	mossy stone
+14E8	leaning stone
+14EC	dark stone
+14F0	flying saucer
+14F4	stone couple
+14F8	garden pond
+14FC	rocket
+1500	Spaceman Sam
+1504	spooky clock
+1508	spooky lamp
+150C	exotic bed
+1510	exotic end table
+1514	asteroid
+1518	cabana lamp
+151C	cabana table
+1520	bucket
+1524	scale
+1528	faucet
+152C	spa chair
+1530	cabana screen
+1534	cabana vanity
+1538	cabana chair
+153C	cabana bookcase
+1540	Arwing
+1544	lunar rover
+1548	massage chair
+154C	bath mat
+1550	spa tub
+1554	blue clock
+1558	mochi pestle
+155C	spooky vanity
+1560	green desk
+1564	clerk's booth
+1568	modern chair
+156C	modern end table
+1570	space station
+1574	spa screen
+1578	cabin chair
+157C	regal bed
+1580	space shuttle
+1584	regal vanity
+1588	regal sofa
+158C	regal lamp
+1590	cabin table
+1594	bath locker
+1598	milk fridge
+159C	tea set
+15A0	Nook's portrait
+15A4	gerbera
+15A8	sunflower
+15AC	daffodil
+15B0	tall gongoid
+15B4	mega gongoid
+15B8	mini gongoid
+15BC	gongoid
+15C0	mini oombloid
+15C4	oombloid
+15C8	mega oombloid
+15CC	tall oombloid
+15D0	mega echoid
+15D4	mini echoid
+15D8	tall echoid
+15DC	mini sputnoid
+15E0	sputnoid
+15E4	mega sputnoid
+15E8	tall sputnoid
+15EC	mini dinkoid
+15F0	mini fizzoid
+15F4	mega fizzoid
+15F8	mega dinkoid
+15FC	mini gargloid
+1600	gargloid
+1604	tall gargloid
+1608	mega buzzoid
+160C	tall buzzoid
+1610	buzzoid
+1614	mini buzzoid
+1618	sproid
+161C	mini sproid
+1620	mega sproid
+1624	tall sproid
+1628	tootoid
+162C	mini tootoid
+1630	mega tootoid
+1634	tall droploid
+1638	mega bovoid
+163C	tall bovoid
+1640	mini metatoid
+1644	metatoid
+1648	mini bowtoid
+164C	bowtoid
+1650	mega bowtoid
+1654	tall bowtoid
+1658	mega lamentoid
+165C	tall lamentoid
+1660	lamentoid
+1664	mini lamentoid
+1668	mini timpanoid
+166C	timpanoid
+1670	mega timpanoid
+1674	quazoid
+1678	mega quazoid
+167C	mega dekkoid
+1680	dekkoid
+1684	mini dekkoid
+1688	mega alloid
+168C	tall alloid
+1690	mini alloid
+1694	mini freakoid
+1698	mega freakoid
+169C	tall quazoid
+16A0	mini quazoid
+16A4	squat dingloid
+16A8	mega dingloid
+16AC	tall dingloid
+16B0	dingloid
+16B4	mini dingloid
+16B8	wee dingloid
+16BC	mega clankoid
+16C0	clankoid
+16C4	tall clankoid
+16C8	mini clankoid
+16CC	croakoid
+16D0	mega croakoid
+16D4	tall croakoid
+16D8	mini croakoid
+16DC	mega poltergoid
+16E0	tall poltergoid
+16E4	poltergoid
+16E8	mini poltergoid
+16EC	tall warbloid
+16F0	warbloid
+16F4	mini warbloid
+16F8	mega rustoid
+16FC	rustoid
+1700	mini rustoid
+1704	mega percoloid
+1708	tall percoloid
+170C	mega puffoid
+1710	mini puffoid
+1714	tall puffoid
+1718	rhythmoid
+171C	mini rhythmoid
+1720	slim quazoid
+1724	mega oboid
+1728	oboid
+172C	tall oboid
+1730	tall timpanoid
+1734	mini howloid
+1738	howloid
+173C	mega howloid
+1740	mega harmonoid
+1744	harmonoid
+1748	tall harmonoid
+174C	mini harmonoid
+1750	tall strumboid
+1754	mega strumboid
+1758	strumboid
+175C	mini strumboid
+1760	mega lullaboid
+1764	tall lullaboid
+1768	lullaboid
+176C	mini lullaboid
+1770	mega drilloid
+1774	drilloid
+1778	mini drilloid
+177C	mega nebuloid
+1780	nebuloid
+1784	squat nebuloid
+1788	tall nebuloid
+178C	mini nebuloid
+1790	slim nebuloid
+1794	mega plinkoid
+1798	plinkoid
+179C	mini plinkoid
+17A0	squelchoid
+17A4	mega squelchoid
+17A8	mini squelchoid
+17AC	flame shirt
+17B0	paw shirt
+17B4	wavy pink shirt
+17B8	future shirt
+17BC	bold check shirt
+17C0	mint gingham
+17C4	bad plaid shirt
+17C8	speedway shirt
+17CC	folk shirt
+17D0	daisy shirt
+17D4	wavy tan shirt
+17D8	optical shirt
+17DC	rugby shirt
+17E0	sherbet gingham
+17E4	yellow tartan
+17E8	gelato shirt
+17EC	work uniform
+17F0	patched shirt
+17F4	plum kimono
+17F8	somber robe
+17FC	red sweats
+1800	blue sweats
+1804	red puffy vest
+1808	blue puffy vest
+180C	summer robe
+1810	bamboo robe
+1814	red aloha shirt
+1818	blue aloha shirt
+181C	dark polka shirt
+1820	lite polka shirt
+1824	lovely shirt
+1828	citrus shirt
+182C	kiwi shirt
+1830	watermelon shirt
+1834	strawberry shirt
+1838	grape shirt
+183C	melon shirt
+1840	Jingle shirt
+1844	blossom shirt
+1848	icy shirt
+184C	crewel shirt
+1850	tropical shirt
+1854	ribbon shirt
+1858	fall plaid shirt
+185C	fiendish shirt
+1860	chevron shirt
+1864	ladybug shirt
+1868	botanical shirt
+186C	Anju's shirt
+1870	Kaffe's shirt
+1874	lavender robe
+1878	blue grid shirt
+187C	butterfly shirt
+1880	blue tartan
+1884	Gracie's top
+1888	orange tie-dye
+188C	purple tie-dye
+1890	green tie-dye
+1894	blue tie-dye
+1898	red tie-dye
+189C	one-ball shirt
+18A0	two-ball shirt
+18A4	three-ball shirt
+18A8	four-ball shirt
+18AC	five-ball shirt
+18B0	six-ball shirt
+18B4	seven-ball shirt
+18B8	eight-ball shirt
+18BC	nine-ball shirt
+18C0	arctic camo
+18C4	jungle camo
+18C8	desert camo
+18CC	rally shirt
+18D0	racer shirt
+18D4	racer 6 shirt
+18D8	tomato juice shirt
+18DC	spiderweb shirt
+18E0	zipper shirt
+18E4	bubble shirt
+18E8	yellow bolero
+18EC	nebula shirt
+18F0	neo-classic knit
+18F4	noble shirt
+18F8	turnip top
+18FC	oft-seen print
+1900	ski sweater
+1904	circus shirt
+1908	patchwork top
+190C	mod top
+1910	hippie shirt
+1914	rickrack shirt
+1918	diner uniform
+191C	shirt circuit
+1920	U R here shirt
+1924	yodel shirt
+1928	pulse shirt
+192C	prism shirt
+1930	star shirt
+1934	straw shirt
+1938	noodle shirt
+193C	dice shirt
+1940	kiddie shirt
+1944	frog shirt
+1948	moody blue shirt
+194C	cloudy shirt
+1950	familiar shirt
+1954	skull shirt
+1958	desert shirt
+195C	aurora knit
+1960	winter sweater
+1964	go-go shirt
+1968	jade check print
+196C	blue check print
+1970	red grid shirt
+1974	flicker shirt
+1978	floral knit
+197C	rose shirt
+1980	sunset top
+1984	chain-gang shirt
+1988	spring shirt
+198C	bear shirt
+1990	MVP shirt
+1994	silk bloom shirt
+1998	pop bloom shirt
+199C	loud bloom shirt
+19A0	hot spring shirt
+19A4	new spring shirt
+19A8	deep blue tee
+19AC	snowcone shirt
+19B0	ugly shirt
+19B4	sharp outfit
+19B8	painter's smock
+19BC	spade shirt
+19C0	blossoming shirt
+19C4	peachy shirt
+19C8	static shirt
+19CC	rainbow shirt
+19D0	groovy shirt
+19D4	loud line shirt
+19D8	dazed shirt
+19DC	red bar shirt
+19E0	blue stripe knit
+19E4	earthy knit
+19E8	spunky knit
+19EC	deer shirt
+19F0	blue check shirt
+19F4	light line shirt
+19F8	blue pinstripe
+19FC	diamond shirt
+1A00	lime line shirt
+1A04	big bro's shirt
+1A08	green bar shirt
+1A0C	yellow bar shirt
+1A10	monkey shirt
+1A14	polar fleece
+1A18	ancient knit
+1A1C	fish knit
+1A20	vertigo shirt
+1A24	misty shirt
+1A28	stormy shirt
+1A2C	red scale shirt
+1A30	blue scale shirt
+1A34	heart shirt
+1A38	yellow pinstripe
+1A3C	club shirt
+1A40	li'l bro's shirt
+1A44	argyle knit
+1A48	caveman tunic
+1A4C	cafe shirt
+1A50	tiki shirt
+1A54	A shirt
+1A58	checkered shirt
+1A5C	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+1A60	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+1A64	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+1A68	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+1A6C	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+1A70	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+1A74	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+1A78	BB shirt
+1A7C	beatnik shirt
+1A80	moldy shirt
+1A84	W shirt
+1A88	big star shirt
+1A8C	orange pinstripe
+1A90	twinkle shirt
+1A94	funky dot shirt
+1A98	crossing shirt
+1A9C	splendid shirt
+1AA0	jagged shirt
+1AA4	denim shirt
+1AA8	I love GC shirt
+1AAC	gumdrop shirt
+1AB0	barber shirt
+1AB4	concierge shirt
+1AB8	fresh shirt
+1ABC	far-out shirt
+1AC0	dawn shirt
+1AC4	striking outfit
+1AC8	red check shirt
+1ACC	berry gingham
+1AD0	lemon gingham
+1AD4	dragon suit
+1AD8	G logo shirt
+1ADC	tin shirt
+1AE0	jester shirt
+1AE4	pink tartan
+1AE8	waffle shirt
+1AEC	gray tartan
+1AF0	windsock shirt
+1AF4	trendy top
+1AF8	green ring shirt
+1AFC	white ring shirt
+1B00	snappy print
+1B04	chichi print
+1B08	wave print
+1B0C	checkerboard tee
+1B10	subdued print
+1B14	airy shirt
+1B18	coral shirt
+1B1C	leather jerkin
+1B20	zebra print
+1B24	tiger print
+1B28	cow print
+1B2C	leopard print
+1B30	danger shirt
+1B34	big dot shirt
+1B38	puzzling shirt
+1B3C	exotic shirt
+1B40	houndstooth knit
+1B44	uncommon shirt
+1B48	dapper shirt
+1B4C	gaudy sweater
+1B50	cozy sweater
+1B54	comfy sweater
+1B58	classic top
+1B5C	vogue top
+1B60	laced shirt
+1B64	natty shirt
+1B68	citrus gingham
+1B6C	cool shirt
+1B70	dreamy shirt
+1B74	flowery shirt
+1B78	caterpillar tee
+1B7C	shortcake shirt
+1B80	whirly shirt
+1B84	thunder shirt
+1B88	giraffe print
+1B8C	swell shirt
+1B90	toad print
+1B94	grass shirt
+1B98	mosaic shirt
+1B9C	fetching outfit
+1BA0	snow shirt
+1BA4	melon gingham
+1BA8	pattern clothing furniture 1
+1BAC	pattern clothing furniture 2
+1BB0	pattern clothing furniture 3
+1BB4	pattern clothing furniture 4
+1BB8	pattern clothing furniture 5
+1BBC	pattern clothing furniture 6
+1BC0	pattern clothing furniture 7
+1BC4	pattern clothing furniture 8
+1BC8	common butterfly
+1BCC	yellow butterfly
+1BD0	tiger butterfly
+1BD4	purple butterfly
+1BD8	robust cicada
+1BDC	priest cicada
+1BE0	evening cicada
+1BE4	brown cicada
+1BE8	bee
+1BEC	common dragonfly
+1BF0	red dragonfly
+1BF4	darner dragonfly
+1BF8	banded dragonfly
+1BFC	long locust
+1C00	migratory locust
+1C04	cricket
+1C08	grasshopper
+1C0C	bell cricket
+1C10	pine cricket
+1C14	drone beetle
+1C18	dynastid beetle
+1C1C	flat stag beetle
+1C20	jewel beetle
+1C24	longhorn beetle
+1C28	ladybug
+1C2C	spotted ladybug
+1C30	mantis
+1C34	firefly
+1C38	cockroach
+1C3C	saw stag beetle
+1C40	mountain beetle
+1C44	giant beetle
+1C48	snail
+1C4C	mole cricket
+1C50	pondskater
+1C54	bagworm
+1C58	pill bug
+1C5C	spider
+1C60	ant
+1C64	mosquito
+1C68	crucian carp
+1C6C	herabuna
+1C70	carp
+1C74	koi
+1C78	catfish
+1C7C	small bass
+1C80	bass
+1C84	large bass
+1C88	bluegill
+1C8C	giant catfish
+1C90	giant snakehead
+1C94	barbel steed
+1C98	dace
+1C9C	pale chub
+1CA0	bitterling
+1CA4	loach
+1CA8	pond smelt
+1CAC	sweetfish
+1CB0	cherry salmon
+1CB4	large char
+1CB8	rainbow trout
+1CBC	stringfish
+1CC0	salmon
+1CC4	goldfish
+1CC8	piranha
+1CCC	arowana
+1CD0	eel
+1CD4	freshwater goby
+1CD8	angelfish
+1CDC	guppy
+1CE0	popeyed goldfish
+1CE4	coelacanth
+1CE8	crawfish
+1CEC	frog
+1CF0	killifish
+1CF4	jellyfish
+1CF8	sea bass
+1CFC	red snapper
+1D00	barred knifejaw
+1D04	arapaima
+1D08	gelato umbrella
+1D0C	daffodil parasol
+1D10	berry umbrella
+1D14	orange umbrella
+1D18	mod umbrella
+1D1C	petal parasol
+1D20	ribbon parasol
+1D24	gingham parasol
+1D28	plaid parasol
+1D2C	lacy parasol
+1D30	elegant umbrella
+1D34	dainty parasol
+1D38	classic umbrella
+1D3C	Nintendo parasol
+1D40	bumbershoot
+1D44	sunny parasol
+1D48	batbrella
+1D4C	checked umbrella
+1D50	yellow umbrella
+1D54	leaf umbrella
+1D58	lotus parasol
+1D5C	paper parasol
+1D60	polka parasol
+1D64	sharp umbrella
+1D68	twig parasol
+1D6C	noodle parasol
+1D70	hypno parasol
+1D74	pastel parasol
+1D78	retro umbrella
+1D7C	icy umbrella
+1D80	blue umbrella
+1D84	flame umbrella
+1D88	pattern umbrella furniture 1
+1D8C	pattern umbrella furniture 2
+1D90	pattern umbrella furniture 3
+1D94	pattern umbrella furniture 4
+1D98	pattern umbrella furniture 5
+1D9C	pattern umbrella furniture 6
+1DA0	pattern umbrella furniture 7
+1DA4	pattern umbrella furniture 8
+1DA8	Clu Clu Land
+1DAC	Balloon Fight
+1DB0	Donkey Kong
+1DB4	DK Jr MATH
+1DB8	Pinball
+1DBC	Tennis
+1DC0	Golf
+1DC4	Punchout
+1DC8	Baseball
+1DCC	Clu Clu Land D
+1DD0	Donkey Kong 3
+1DD4	Donkey Kong Jr
+1DD8	Gomoku Narabe
+1DDC	Mahjong
+1DE0	Wario's Woods
+1DE4	Ice Climber
+1DE8	Mario Bros
+1DEC	Super Mario Bros
+1DF0	Legend of Zelda
+1DF4	NES
+1DF8	phonograph
+1DFC	turntable
+1E00	jukebox
+1E04	red boom box
+1E08	white boom box
+1E0C	high-end stereo
+1E10	hi-fi stereo
+1E14	lovely stereo
+1E18	Jingle lamp
+1E1C	Jingle chair
+1E20	Jingle shelves
+1E24	Jingle sofa
+1E28	Jingle bed
+1E2C	Jingle clock
+1E30	Jingle table
+1E34	Jingle piano
+1E38	Aiko figurine
+1E3C	robo-stereo
+1E40	dice stereo
+1E44	apple clock
+1E48	robo-clock
+1E4C	kitschy clock
+1E50	antique clock
+1E54	reel-to-reel
+1E58	tape deck
+1E5C	CD player
+1E60	glow clock
+1E64	odd clock
+1E68	red clock
+1E6C	cube clock
+1E70	owl clock
+1E74	lucky cat
+1E78	lucky black cat
+1E7C	samurai suit
+1E80	tanuki figurine
+1E84	lucky frog
+1E88	big festive tree
+1E8C	white rook
+1E90	black rook
+1E94	white queen
+1E98	black queen
+1E9C	white bishop
+1EA0	black bishop
+1EA4	white king
+1EA8	black king
+1EAC	white knight
+1EB0	black knight
+1EB4	white pawn
+1EB8	black pawn
+1EBC	festive tree
+1EC0	kiddie clock
+1EC4	kiddie bed
+1EC8	kiddie table
+1ECC	kiddie couch
+1ED0	kiddie stereo
+1ED4	kiddie chair
+1ED8	kiddie bookcase
+1EDC	alcove
+1EE0	hearth
+1EE4	chalk board
+1EE8	mop
+1EEC	tricera skull
+1EF0	tricera tail
+1EF4	tricera torso
+1EF8	T-rex skull
+1EFC	T-rex tail
+1F00	T-rex torso
+1F04	apato skull
+1F08	apato tail
+1F0C	apato torso
+1F10	stego skull
+1F14	stego tail
+1F18	stego torso
+1F1C	ptera skull
+1F20	ptera right wing
+1F24	ptera left wing
+1F28	plesio skull
+1F2C	plesio neck
+1F30	plesio torso
+1F34	mammoth skull
+1F38	mammoth torso
+1F3C	amber
+1F40	dinosaur track
+1F44	ammonite
+1F48	dinosaur egg
+1F4C	trilobite
+1F50	modern lamp
+1F54	Snowman fridge
+1F58	Snowman table
+1F5C	Snowman bed
+1F60	Snowman chair
+1F64	Snowman lamp
+1F68	Snowman sofa
+1F6C	Snowman TV
+1F70	Snowman dresser
+1F74	Snowman wardrobe
+1F78	Snowman clock
+1F7C	tricera D
+1F80	T-rex D
+1F84	bronto D
+1F88	ptera D
+1F8C	HUTABAD
+1F90	mammoth D
+1F94	stego D
+1F98	stego D2
+1F9C	fossil furniture
+1FA0	shogi piece
+1FA4	chocolates
+1FA8	mailbox
+1FAC	piggy bank
+1FB0	tissue
+1FB4	tribal mask
+1FB8	matryoshka
+1FBC	Legend of Zelda
+1FC0	bottled ship
+1FC4	tiger bobblehead
+1FC8	Moai statue
+1FCC	aerobics radio
+1FD0	pagoda
+1FD4	fishing bear
+1FD8	Mouth of Truth
+1FDC	Chinese lioness
+1FE0	Tower of Pisa
+1FE4	Merlion
+1FE8	Manekin Pis
+1FEC	Tokyo Tower
+1FF0	red balloon
+1FF4	yellow balloon
+1FF8	blue balloon
+1FFC	green balloon
+2000	airmail paper (1)
+2001	sparkly paper (1)
+2002	bamboo paper (1)
+2003	danger paper (1)
+2004	essay paper (1)
+2005	panda paper (1)
+2006	ranch paper (1)
+2007	steel paper (1)
+2008	blossom paper (1)
+2009	vine paper (1)
+200A	cloudy paper (1)
+200B	petal paper (1)
+200C	snowy paper (1)
+200D	rainy day paper (1)
+200E	watermelon paper (1)
+200F	deep sea paper (1)
+2010	starry sky paper (1)
+2011	daisy paper (1)
+2012	bluebell paper (1)
+2013	maple leaf paper (1)
+2014	woodcut paper (1)
+2015	octopus paper (1)
+2016	festive paper (1)
+2017	skyline paper (1)
+2018	museum paper (1)
+2019	fortune paper (1)
+201A	stageshow paper (1)
+201B	thick paper (1)
+201C	spooky paper (1)
+201D	noodle paper (1)
+201E	neat paper (1)
+201F	horsetail paper (1)
+2020	felt paper (1)
+2021	parchment (1)
+2022	cool paper (1)
+2023	elegant paper (1)
+2024	lacy paper (1)
+2025	polka-dot paper (1)
+2026	dizzy paper (1)
+2027	rainbow paper (1)
+2028	hot neon paper (1)
+2029	cool neon paper (1)
+202A	aloha paper (1)
+202B	ribbon paper (1)
+202C	fantasy paper (1)
+202D	woodland paper (1)
+202E	gingko paper (1)
+202F	fireworks paper (1)
+2030	winter paper (1)
+2031	gyroid paper (1)
+2032	ivy paper (1)
+2033	wing paper (1)
+2034	dragon paper (1)
+2035	tile paper (1)
+2036	misty paper (1)
+2037	simple paper (1)
+2038	honeybee paper (1)
+2039	mystic paper (1)
+203A	sunset paper (1)
+203B	lattice paper (1)
+203C	dainty paper (1)
+203D	butterfly paper (1)
+203E	new year's card (1)
+203F	inky paper (1)
+2040	airmail paper (2)
+2041	sparkly paper (2)
+2042	bamboo paper (2)
+2043	danger paper (2)
+2044	essay paper (2)
+2045	panda paper (2)
+2046	ranch paper (2)
+2047	steel paper (2)
+2048	blossom paper (2)
+2049	vine paper (2)
+204A	cloudy paper (2)
+204B	petal paper (2)
+204C	snowy paper (2)
+204D	rainy day paper (2)
+204E	watermelon paper (2)
+204F	deep sea paper (2)
+2050	starry sky paper (2)
+2051	daisy paper (2)
+2052	bluebell paper (2)
+2053	maple leaf paper (2)
+2054	woodcut paper (2)
+2055	octopus paper (2)
+2056	festive paper (2)
+2057	skyline paper (2)
+2058	museum paper (2)
+2059	fortune paper (2)
+205A	stageshow paper (2)
+205B	thick paper (2)
+205C	spooky paper (2)
+205D	noodle paper (2)
+205E	neat paper (2)
+205F	horsetail paper (2)
+2060	felt paper (2)
+2061	parchment (2)
+2062	cool paper (2)
+2063	elegant paper (2)
+2064	lacy paper (2)
+2065	polka-dot paper (2)
+2066	dizzy paper (2)
+2067	rainbow paper (2)
+2068	hot neon paper (2)
+2069	cool neon paper (2)
+206A	aloha paper (2)
+206B	ribbon paper (2)
+206C	fantasy paper (2)
+206D	woodland paper (2)
+206E	gingko paper (2)
+206F	fireworks paper (2)
+2070	winter paper (2)
+2071	gyroid paper (2)
+2072	ivy paper (2)
+2073	wing paper (2)
+2074	dragon paper (2)
+2075	tile paper (2)
+2076	misty paper (2)
+2077	simple paper (2)
+2078	honeybee paper (2)
+2079	mystic paper (2)
+207A	sunset paper (2)
+207B	lattice paper (2)
+207C	dainty paper (2)
+207D	butterfly paper (2)
+207E	new year's card (2)
+207F	inky paper (2)
+2080	airmail paper (3)
+2081	sparkly paper (3)
+2082	bamboo paper (3)
+2083	danger paper (3)
+2084	essay paper (3)
+2085	panda paper (3)
+2086	ranch paper (3)
+2087	steel paper (3)
+2088	blossom paper (3)
+2089	vine paper (3)
+208A	cloudy paper (3)
+208B	petal paper (3)
+208C	snowy paper (3)
+208D	rainy day paper (3)
+208E	watermelon paper (3)
+208F	deep sea paper (3)
+2090	starry sky paper (3)
+2091	daisy paper (3)
+2092	bluebell paper (3)
+2093	maple leaf paper (3)
+2094	woodcut paper (3)
+2095	octopus paper (3)
+2096	festive paper (3)
+2097	skyline paper (3)
+2098	museum paper (3)
+2099	fortune paper (3)
+209A	stageshow paper (3)
+209B	thick paper (3)
+209C	spooky paper (3)
+209D	noodle paper (3)
+209E	neat paper (3)
+209F	horsetail paper (3)
+20A0	felt paper (3)
+20A1	parchment (3)
+20A2	cool paper (3)
+20A3	elegant paper (3)
+20A4	lacy paper (3)
+20A5	polka-dot paper (3)
+20A6	dizzy paper (3)
+20A7	rainbow paper (3)
+20A8	hot neon paper (3)
+20A9	cool neon paper (3)
+20AA	aloha paper (3)
+20AB	ribbon paper (3)
+20AC	fantasy paper (3)
+20AD	woodland paper (3)
+20AE	gingko paper (3)
+20AF	fireworks paper (3)
+20B0	winter paper (3)
+20B1	gyroid paper (3)
+20B2	ivy paper (3)
+20B3	wing paper (3)
+20B4	dragon paper (3)
+20B5	tile paper (3)
+20B6	misty paper (3)
+20B7	simple paper (3)
+20B8	honeybee paper (3)
+20B9	mystic paper (3)
+20BA	sunset paper (3)
+20BB	lattice paper (3)
+20BC	dainty paper (3)
+20BD	butterfly paper (3)
+20BE	new year's card (3)
+20BF	inky paper (3)
+20C0	airmail paper (4)
+20C1	sparkly paper (4)
+20C2	bamboo paper (4)
+20C3	danger paper (4)
+20C4	essay paper (4)
+20C5	panda paper (4)
+20C6	ranch paper (4)
+20C7	steel paper (4)
+20C8	blossom paper (4)
+20C9	vine paper (4)
+20CA	cloudy paper (4)
+20CB	petal paper (4)
+20CC	snowy paper (4)
+20CD	rainy day paper (4)
+20CE	watermelon paper (4)
+20CF	deep sea paper (4)
+20D0	starry sky paper (4)
+20D1	daisy paper (4)
+20D2	bluebell paper (4)
+20D3	maple leaf paper (4)
+20D4	woodcut paper (4)
+20D5	octopus paper (4)
+20D6	festive paper (4)
+20D7	skyline paper (4)
+20D8	museum paper (4)
+20D9	fortune paper (4)
+20DA	stageshow paper (4)
+20DB	thick paper (4)
+20DC	spooky paper (4)
+20DD	noodle paper (4)
+20DE	neat paper (4)
+20DF	horsetail paper (4)
+20E0	felt paper (4)
+20E1	parchment (4)
+20E2	cool paper (4)
+20E3	elegant paper (4)
+20E4	lacy paper (4)
+20E5	polka-dot paper (4)
+20E6	dizzy paper (4)
+20E7	rainbow paper (4)
+20E8	hot neon paper (4)
+20E9	cool neon paper (4)
+20EA	aloha paper (4)
+20EB	ribbon paper (4)
+20EC	fantasy paper (4)
+20ED	woodland paper (4)
+20EE	gingko paper (4)
+20EF	fireworks paper (4)
+20F0	winter paper (4)
+20F1	gyroid paper (4)
+20F2	ivy paper (4)
+20F3	wing paper (4)
+20F4	dragon paper (4)
+20F5	tile paper (4)
+20F6	misty paper (4)
+20F7	simple paper (4)
+20F8	honeybee paper (4)
+20F9	mystic paper (4)
+20FA	sunset paper (4)
+20FB	lattice paper (4)
+20FC	dainty paper (4)
+20FD	butterfly paper (4)
+20FE	new year's card (4)
+20FF	inky paper (4)
+2100	1,000 Bells
+2101	10,000 Bells
+2102	30,000 Bells
+2103	100 Bells
+2200	net
+2201	axe
+2202	shovel
+2203	fishing rod
+2204	gelato umbrella
+2205	daffodil parasol
+2206	berry umbrella
+2207	orange umbrella
+2208	mod umbrella
+2209	petal parasol
+220A	ribbon parasol
+220B	gingham parasol
+220C	plaid parasol
+220D	lacy parasol
+220E	elegant umbrella
+220F	dainty parasol
+2210	classic umbrella
+2211	Nintendo parasol
+2212	bumbershoot
+2213	sunny parasol
+2214	batbrella
+2215	checked umbrella
+2216	yellow umbrella
+2217	leaf umbrella
+2218	lotus parasol
+2219	paper parasol
+221A	polka parasol
+221B	sharp umbrella
+221C	twig parasol
+221D	noodle parasol
+221E	hypno parasol
+221F	pastel parasol
+2220	retro umbrella
+2221	icy umbrella
+2222	blue umbrella
+2223	flame umbrella
+2224	pattern umbrella equipped 1
+2225	pattern umbrella equipped 2
+2226	pattern umbrella equipped 3
+2227	pattern umbrella equipped 4
+2228	pattern umbrella equipped 5
+2229	pattern umbrella equipped 6
+222A	pattern umbrella equipped 7
+222B	pattern umbrella equipped 8
+222C	sickle
+222D	red paint
+222E	orange paint
+222F	yellow paint
+2230	pale green paint
+2231	green paint
+2232	sky blue paint
+2233	blue paint
+2234	purple paint
+2235	pink paint
+2236	black paint
+2237	white paint
+2238	brown paint
+2239	golden net
+223A	golden axe
+223B	golden shovel
+223C	golden rod
+223D	cracked axe (stage 2)
+223E	cracked axe (stage 3)
+223F	cracked axe (stage 4)
+2240	damaged axe (stage 5)
+2241	damaged axe (stage 6)
+2242	damaged axe (stage 7)
+2243	damaged axe (stage 8)
+2244	red balloon
+2245	yellow balloon
+2246	blue balloon
+2247	green balloon
+2248	purple balloon
+2249	Bunny P. balloon
+224A	Bunny B. balloon
+224B	Bunny O. balloon
+224C	yellow pinwheel
+224D	red pinwheel
+224E	tiger pinwheel
+224F	green pinwheel
+2250	pink pinwheel
+2251	striped pinwheel
+2252	flower pinwheel
+2253	fancy pinwheel
+2254	bluebell fan
+2255	plum fan
+2256	bamboo fan
+2257	cloud fan
+2258	maple fan
+2259	fan fan
+225A	flower fan
+225B	leaf fan
+2300	crucian carp
+2301	herabuna
+2302	carp
+2303	koi
+2304	catfish
+2305	small bass
+2306	bass
+2307	large bass
+2308	bluegill
+2309	giant catfish
+230A	giant snakehead
+230B	barbel steed
+230C	dace
+230D	pale chub
+230E	bitterling
+230F	loach
+2310	pond smelt
+2311	sweetfish
+2312	cherry salmon
+2313	large char
+2314	rainbow trout
+2315	stringfish
+2316	salmon
+2317	goldfish
+2318	piranha
+2319	arowana
+231A	eel
+231B	freshwater goby
+231C	angelfish
+231D	guppy
+231E	popeyed goldfish
+231F	coelacanth
+2320	crawfish
+2321	frog
+2322	killifish
+2323	jellyfish
+2324	sea bass
+2325	red snapper
+2326	barred knifejaw
+2327	arapaima
+2400	flame shirt
+2401	paw shirt
+2402	wavy pink shirt
+2403	future shirt
+2404	bold check shirt
+2405	mint gingham
+2406	bad plaid shirt
+2407	speedway shirt
+2408	folk shirt
+2409	daisy shirt
+240A	wavy tan shirt
+240B	optical shirt
+240C	rugby shirt
+240D	sherbet gingham
+240E	yellow tartan
+240F	gelato shirt
+2410	work uniform
+2411	patched shirt
+2412	plum kimono
+2413	somber robe
+2414	red sweatsuit
+2415	blue sweatsuit
+2416	red puffy vest
+2417	blue puffy vest
+2418	summer robe
+2419	bamboo robe
+241A	red aloha shirt
+241B	blue aloha shirt
+241C	dark polka shirt
+241D	lite polka shirt
+241E	lovely shirt
+241F	citrus shirt
+2420	kiwi shirt
+2421	watermelon shirt
+2422	strawberry shirt
+2423	grape shirt
+2424	melon shirt
+2425	Jingle shirt
+2426	blossom shirt
+2427	icy shirt
+2428	crewel shirt
+2429	tropical shirt
+242A	ribbon shirt
+242B	fall plaid shirt
+242C	fiendish shirt
+242D	chevron shirt
+242E	ladybug shirt
+242F	botanical shirt
+2430	Anju's shirt
+2431	Kaffe's shirt
+2432	lavender robe
+2433	blue grid shirt
+2434	butterfly shirt
+2435	blue tartan
+2436	Gracie's top
+2437	orange tie-dye
+2438	purple tie-dye
+2439	green tie-dye
+243A	blue tie-dye
+243B	red tie-dye
+243C	one-ball shirt
+243D	two-ball shirt
+243E	three-ball shirt
+243F	four-ball shirt
+2440	five-ball shirt
+2441	six-ball shirt
+2442	seven-ball shirt
+2443	eight-ball shirt
+2444	nine-ball shirt
+2445	arctic camo
+2446	jungle camo
+2447	desert camo
+2448	rally shirt
+2449	racer shirt
+244A	racer 6 shirt
+244B	tomato juice shirt
+244C	spiderweb shirt
+244D	zipper shirt
+244E	bubble shirt
+244F	yellow bolero
+2450	nebula shirt
+2451	neo-classic knit
+2452	noble shirt
+2453	turnip top
+2454	oft-seen print
+2455	ski sweater
+2456	circus shirt
+2457	patchwork top
+2458	mod top
+2459	hippie shirt
+245A	rickrack shirt
+245B	diner uniform
+245C	shirt circuit
+245D	U R here shirt
+245E	yodel shirt
+245F	pulse shirt
+2460	prism shirt
+2461	star shirt
+2462	straw shirt
+2463	noodle shirt
+2464	dice shirt
+2465	kiddie shirt
+2466	frog shirt
+2467	moody blue shirt
+2468	cloudy shirt
+2469	familiar shirt
+246A	skull shirt
+246B	desert shirt
+246C	aurora knit
+246D	winter sweater
+246E	go-go shirt
+246F	jade check print
+2470	blue check print
+2471	red grid shirt
+2472	flicker shirt
+2473	floral knit
+2474	rose shirt
+2475	sunset top
+2476	chain-gang shirt
+2477	spring shirt
+2478	bear shirt
+2479	MVP shirt
+247A	silk bloom shirt
+247B	pop bloom shirt
+247C	loud bloom shirt
+247D	hot spring shirt
+247E	new spring shirt
+247F	deep blue tee
+2480	snowcone shirt
+2481	ugly shirt
+2482	sharp outfit
+2483	painter's smock
+2484	spade shirt
+2485	blossoming shirt
+2486	peachy shirt
+2487	static shirt
+2488	rainbow shirt
+2489	groovy shirt
+248A	loud line shirt
+248B	dazed shirt
+248C	red bar shirt
+248D	blue stripe knit
+248E	earthy knit
+248F	spunky knit
+2490	deer shirt
+2491	blue check shirt
+2492	light line shirt
+2493	blue pinstripe
+2494	diamond shirt
+2495	lime line shirt
+2496	big bro's shirt
+2497	green bar shirt
+2498	yellow bar shirt
+2499	monkey shirt
+249A	polar fleece
+249B	ancient knit
+249C	fish knit
+249D	vertigo shirt
+249E	misty shirt
+249F	stormy shirt
+24A0	red scale shirt
+24A1	blue scale shirt
+24A2	heart shirt
+24A3	yellow pinstripe
+24A4	club shirt
+24A5	li'l bro's shirt
+24A6	argyle knit
+24A7	caveman tunic
+24A8	café shirt
+24A9	tiki shirt
+24AA	A shirt
+24AB	checkered shirt
+24AC	No.1 shirt
+24AD	No.2 shirt
+24AE	No.3 shirt
+24AF	No.4 shirt
+24B0	No.5 shirt
+24B1	No.23 shirt
+24B2	No.67 shirt
+24B3	BB shirt
+24B4	beatnik shirt
+24B5	moldy shirt
+24B6	W shirt
+24B7	big star shirt
+24B8	orange pinstripe
+24B9	twinkle shirt
+24BA	funky dot shirt
+24BB	crossing shirt
+24BC	splendid shirt
+24BD	jagged shirt
+24BE	denim shirt
+24BF	I love GC shirt
+24C0	gumdrop shirt
+24C1	barber shirt
+24C2	concierge shirt
+24C3	fresh shirt
+24C4	far-out shirt
+24C5	dawn shirt
+24C6	striking outfit
+24C7	red check shirt
+24C8	berry gingham
+24C9	lemon gingham
+24CA	dragon suit
+24CB	G logo shirt
+24CC	tin shirt
+24CD	jester shirt
+24CE	pink tartan
+24CF	waffle shirt
+24D0	gray tartan
+24D1	windsock shirt
+24D2	trendy top
+24D3	green ring shirt
+24D4	white ring shirt
+24D5	snappy print
+24D6	chichi print
+24D7	wave print
+24D8	checkerboard tee
+24D9	subdued print
+24DA	airy shirt
+24DB	coral shirt
+24DC	leather jerkin
+24DD	zebra print
+24DE	tiger print
+24DF	cow print
+24E0	leopard print
+24E1	danger shirt
+24E2	big dot shirt
+24E3	puzzling shirt
+24E4	exotic shirt
+24E5	houndstooth knit
+24E6	uncommon shirt
+24E7	dapper shirt
+24E8	gaudy sweater
+24E9	cozy sweater
+24EA	comfy sweater
+24EB	classic top
+24EC	vogue top
+24ED	laced shirt
+24EE	natty shirt
+24EF	citrus gingham
+24F0	cool shirt
+24F1	dreamy shirt
+24F2	flowery shirt
+24F3	caterpillar tee
+24F4	shortcake shirt
+24F5	whirly shirt
+24F6	thunder shirt
+24F7	giraffe print
+24F8	swell shirt
+24F9	toad print
+24FA	grass shirt
+24FB	mosaic shirt
+24FC	fetching outfit
+24FD	snow shirt
+24FE	melon gingham
+24FF	mannequin shirt
+2500	unused quest map
+2501	quest clothes
+2502	quest money
+2503	videotape
+2504	organizer
+2505	Pokémon Pikachu
+2506	comic book
+2507	picture book
+2508	Game Boy
+2509	camera
+250A	watch
+250B	handkerchief
+250C	glasses case
+250D	money1000Bell
+250E	empty can
+250F	boot
+2510	old tire
+2511	fossil
+2512	pitfall
+2513	Fortune Slip
+2514	lions paw
+2515	wentletrap
+2516	venus comb
+2517	porceletta
+2518	sand dollar
+2519	white scallop
+251A	conch
+251B	coral
+251C	Present (random item)
+251D	nook's tutorial map
+251E	sign board
+251F	Present (golden net)
+2520	Present (golden axe)
+2521	Present (golden shovel)
+2522	Present (golden rod)
+2523	exercise card
+2524	exercise card (1)
+2525	exercise card (2)
+2526	exercise card (3)
+2527	exercise card (4)
+2528	exercise card (5)
+2529	exercise card (6)
+252A	exercise card (7)
+252B	exercise card (8)
+252C	exercise card (9)
+252D	exercise card (10)
+252E	exercise card (11)
+252F	exercise card (12)
+2530	knife and fork
+2600	plush carpet
+2601	classic carpet
+2602	checkered tile
+2603	old flooring
+2604	red tile
+2605	birch flooring
+2606	classroom floor
+2607	lovely carpet
+2608	exotic rug
+2609	mossy carpet
+260A	18 mat tatami
+260B	8 mat tatami
+260C	citrus carpet
+260D	cabin rug
+260E	closed road
+260F	lunar surface
+2610	sand garden
+2611	spooky carpet
+2612	bathhouse tile floor
+2613	green rug
+2614	blue flooring
+2615	regal carpet
+2616	ranch flooring
+2617	modern tile
+2618	cabana flooring
+2619	Snowman carpet
+261A	old board floor
+261B	music room floor
+261C	plaza tile
+261D	kitchen tile
+261E	ornate rug
+261F	tatami floor
+2620	bamboo flooring
+2621	kitchen flooring
+2622	charcoal tile
+2623	stone tile
+2624	imperial tile
+2625	opulent rug
+2626	slate flooring
+2627	ceramic tile
+2628	fancy carpet
+2629	cowhide rug
+262A	steel flooring
+262B	office flooring
+262C	ancient tile
+262D	exquisite rug
+262E	sandlot
+262F	Jingle carpet
+2630	daisy meadow
+2631	sidewalk
+2632	mosaic tile
+2633	parquet floor
+2634	basement floor
+2635	chessboard rug
+2636	kiddie carpet
+2637	shanty mat
+2638	concrete floor
+2639	Saharah's desert
+263A	tartan rug
+263B	palace tile
+263C	tropical floor
+263D	playroom rug
+263E	kitschy tile
+263F	diner tile
+2700	chic wall
+2701	classic wall
+2702	parlor wall
+2703	stone wall
+2704	blue-trim wall
+2705	plaster wall
+2706	classroom wall
+2707	lovely wall
+2708	exotic wall
+2709	mortar wall
+270A	gold screen wall
+270B	tea room wall
+270C	citrus wall
+270D	cabin wall
+270E	blue tarp
+270F	lunar horizon
+2710	garden wall
+2711	spooky wall
+2712	bathhouse wall
+2713	green wall
+2714	blue wall
+2715	regal wall
+2716	ranch wall
+2717	modern wall
+2718	cabana wall
+2719	Snowman wall
+271A	worn-out mud wall
+271B	music room wall
+271C	plaza wall
+271D	lattice wall
+271E	ornate wall
+271F	modern screen
+2720	bamboo wall
+2721	kitchen wall
+2722	old brick wall
+2723	stately wall
+2724	imperial wall
+2725	manor wall
+2726	ivy wall
+2727	mod wall
+2728	rose wall
+2729	wood paneling
+272A	concrete wall
+272B	office wall
+272C	ancient wall
+272D	exquisite wall
+272E	sandlot wall
+272F	Jingle wall
+2730	meadow vista
+2731	tree-lined wall
+2732	mosaic wall
+2733	arched window
+2734	basement wall
+2735	backgammon wall
+2736	kiddie wall
+2737	shanty wall
+2738	industrial wall
+2739	desert vista
+273A	library wall
+273B	floral wall
+273C	tropical vista
+273D	playroom wall
+273E	kitschy wall
+273F	groovy wall
+2800	apple
+2801	cherry
+2802	pear
+2803	peach
+2804	orange
+2805	mushroom
+2806	candy
+2807	coconut
+2900	sapling
+2901	cedar sapling
+2902	white pansy bag
+2903	purple pansy bag
+2904	yellow pansy bag
+2905	white cosmos bag
+2906	pink cosmos bag
+2907	blue cosmos bag
+2908	red tulip bag
+2909	white tulip bag
+290A	yellow tulip bag
+2A00	K.K. Chorale
+2A01	K.K. March
+2A02	K.K. Waltz
+2A03	K.K. Swing
+2A04	K.K. Jazz
+2A05	K.K. Fusion
+2A06	K.K. Etude
+2A07	K.K. Lullaby
+2A08	K.K. Aria
+2A09	K.K. Samba
+2A0A	K.K. Bossa
+2A0B	K.K. Calypso
+2A0C	K.K. Salsa
+2A0D	K.K. Mambo
+2A0E	K.K. Reggae
+2A0F	K.K. Ska
+2A10	K.K. Tango
+2A11	K.K. Faire
+2A12	Aloha K.K.
+2A13	Lucky K.K.
+2A14	K.K. Condor
+2A15	K.K. Steppe
+2A16	Imperial K.K.
+2A17	K.K. Casbah
+2A18	K.K. Safari
+2A19	K.K. Folk
+2A1A	K.K. Rock
+2A1B	Rockin' K.K.
+2A1C	K.K. Ragtime
+2A1D	K.K. Gumbo
+2A1E	The K. Funk
+2A1F	K.K. Blues
+2A20	Soulful K.K.
+2A21	K.K. Soul
+2A22	K.K. Cruisin'
+2A23	K.K. Love Song
+2A24	K.K. D & B
+2A25	K.K. Technopop
+2A26	DJ K.K.
+2A27	Only Me
+2A28	K.K. Country
+2A29	Surfin' K.K.
+2A2A	K.K. Ballad
+2A2B	Comrade K.K.
+2A2C	K.K. Lament
+2A2D	Go K.K. Rider!
+2A2E	K.K. Dirge
+2A2F	K.K. Western
+2A30	Mr. K.K.
+2A31	Café K.K.
+2A32	K.K. Parade
+2A33	Señor K.K.
+2A34	K.K. Song
+2A35	I Love You
+2A36	Two Days Ago
+2B00	college rule
+2B01	school pad
+2B02	organizer
+2B03	diary
+2B04	journal
+2B05	pink diary
+2B06	captain's log
+2B07	blue diary
+2B08	french notebook
+2B09	scroll
+2B0A	pink plaid pad
+2B0B	blue polka pad
+2B0C	green plaid pad
+2B0D	red polka pad
+2B0E	yellow plaid pad
+2B0F	calligraphy pad
+2C00	January ticket (1)
+2C01	January ticket (2)
+2C02	January ticket (3)
+2C03	January ticket (4)
+2C04	January ticket (5)
+2C05	January ticket (1) (2)
+2C06	January ticket (1) (3)
+2C07	January ticket (1) (4)
+2C08	February ticket (1)
+2C09	February ticket (2)
+2C0A	February ticket (3)
+2C0B	February ticket (4)
+2C0C	February ticket (5)
+2C0D	February ticket (1) (2)
+2C0E	February ticket (1) (3)
+2C0F	February ticket (1) (4)
+2C10	March ticket (1)
+2C11	March ticket (2)
+2C12	March ticket (3)
+2C13	March ticket (4)
+2C14	March ticket (5)
+2C15	March ticket (1) (2)
+2C16	March ticket (1) (3)
+2C17	March ticket (1) (4)
+2C18	April ticket (1)
+2C19	April ticket (2)
+2C1A	April ticket (3)
+2C1B	April ticket (4)
+2C1C	April ticket (5)
+2C1D	April ticket (1) (2)
+2C1E	April ticket (1) (3)
+2C1F	April ticket (1) (4)
+2C20	May ticket (1)
+2C21	May ticket (2)
+2C22	May ticket (3)
+2C23	May ticket (4)
+2C24	May ticket (5)
+2C25	May ticket (1) (2)
+2C26	May ticket (1) (3)
+2C27	May ticket (1) (4)
+2C28	June ticket (1)
+2C29	June ticket (2)
+2C2A	June ticket (3)
+2C2B	June ticket (4)
+2C2C	June ticket (5)
+2C2D	June ticket (1) (2)
+2C2E	June ticket (1) (3)
+2C2F	June ticket (1) (4)
+2C30	July ticket (1)
+2C31	July ticket (2)
+2C32	July ticket (3)
+2C33	July ticket (4)
+2C34	July ticket (5)
+2C35	July ticket (1) (2)
+2C36	July ticket (1) (3)
+2C37	July ticket (1) (4)
+2C38	August ticket (1)
+2C39	August ticket (2)
+2C3A	August ticket (3)
+2C3B	August ticket (4)
+2C3C	August ticket (5)
+2C3D	August ticket (1) (2)
+2C3E	August ticket (1) (3)
+2C3F	August ticket (1) (4)
+2C40	September ticket (1)
+2C41	September ticket (2)
+2C42	September ticket (3)
+2C43	September ticket (4)
+2C44	September ticket (5)
+2C45	September ticket (1) (2)
+2C46	September ticket (1) (3)
+2C47	September ticket (1) (4)
+2C48	October ticket (1)
+2C49	October ticket (2)
+2C4A	October ticket (3)
+2C4B	October ticket (4)
+2C4C	October ticket (5)
+2C4D	October ticket (1) (2)
+2C4E	October ticket (1) (3)
+2C4F	October ticket (1) (4)
+2C50	November ticket (1)
+2C51	November ticket (2)
+2C52	November ticket (3)
+2C53	November ticket (4)
+2C54	November ticket (5)
+2C55	November ticket (1) (2)
+2C56	November ticket (1) (3)
+2C57	November ticket (1) (4)
+2C58	December ticket (1)
+2C59	December ticket (2)
+2C5A	December ticket (3)
+2C5B	December ticket (4)
+2C5C	December ticket (5)
+2C5D	December ticket (1) (2)
+2C5E	December ticket (1) (3)
+2C5F	December ticket (1) (4)
+2D00	common butterfly
+2D01	yellow butterfly
+2D02	tiger butterfly
+2D03	purple butterfly
+2D04	robust cicada
+2D05	walker cicada
+2D06	evening cicada
+2D07	brown cicada
+2D08	bee
+2D09	common dragonfly
+2D0A	red dragonfly
+2D0B	darner dragonfly
+2D0C	banded dragonfly
+2D0D	long locust
+2D0E	migratory locust
+2D0F	cricket
+2D10	grasshopper
+2D11	bell cricket
+2D12	pine cricket
+2D13	drone beetle
+2D14	dynastid beetle
+2D15	flat stag beetle
+2D16	jewel beetle
+2D17	longhorn beetle
+2D18	ladybug
+2D19	spotted ladybug
+2D1A	mantis
+2D1B	firefly
+2D1C	cockroach
+2D1D	saw stag beetle
+2D1E	mountain beetle
+2D1F	giant beetle
+2D20	snail
+2D21	mole cricket
+2D22	pond skater
+2D23	bagworm
+2D24	pill bug
+2D25	spider
+2D26	ant
+2D27	mosquito
+2D28	spirit (1)
+2D29	spirit (2)
+2D2A	spirit (3)
+2D2B	spirit (4)
+2D2C	spirit (5)
+2E00	grab bag (1)
+2E01	grab bag (2)
+2F00	10 turnips
+2F01	50 turnips
+2F02	100 turnips
+2F03	spoiled turnips
+3000	purple balloon
+3004	Bunny P. balloon
+3008	Bunny B. balloon
+300C	Bunny O. balloon
+3010	Lady Liberty
+3014	Arc De Triomphe
+3018	stone coin
+301C	mermaid statue
+3020	post model
+3024	house model
+3028	manor model
+302C	police model
+3030	museum model
+3034	plate armor
+3038	moon dumpling
+303C	bean set
+3040	osechi
+3044	lovely phone
+3048	market model
+304C	Katrina's tent
+3050	Chinese lion
+3054	tanabata palm
+3058	spring medal
+305C	fall medal
+3060	shop model
+3064	compass
+3068	long-life noodle
+306C	bass boat
+3070	lighthouse model
+3074	life ring
+3078	tree model
+307C	pink tree model
+3080	weed model
+3084	tailor model
+3088	dump model
+308C	mortar ball
+3090	Snowman
+3094	miniature car
+3098	big catch flag
+309C	moon
+30A0	locomotive model
+30A4	dolly
+30A8	station model 1
+30AC	station model 2
+30B0	station model 3
+30B4	station model 4
+30B8	station model 5
+30BC	station model 6
+30C0	station model 7
+30C4	station model 8
+30C8	station model 9
+30CC	station model 10
+30D0	station model 11
+30D4	station model 12
+30D8	station model 13
+30DC	station model 14
+30E0	station model 15
+30E4	well model
+30E8	grass model
+30EC	track model
+30F0	dirt model
+30F4	train car model
+30F8	orange box
+30FC	college rule
+3100	school pad
+3104	organizer
+3108	diary
+310C	journal
+3110	pink diary
+3114	captain's log
+3118	blue diary
+311C	french notebook
+3120	scroll
+3124	pink plaid pad
+3128	blue polka pad
+312C	green plaid pad
+3130	red polka pad
+3134	yellow plaid pad
+3138	calligraphy pad
+313C	golden net
+3140	golden axe
+3144	golden shovel
+3148	golden rod
+314C	bluebell fan
+3150	plum fan
+3154	bamboo fan
+3158	cloud fan
+315C	maple fan
+3160	fan fan
+3164	flower fan
+3168	leaf fan
+316C	yellow pinwheel
+3170	red pinwheel
+3174	tiger pinwheel
+3178	green pinwheel
+317C	pink pinwheel
+3180	gold pinwheel
+3184	flower pinwheel
+3188	fancy pinwheel
+318C	bug net
+3190	axe
+3194	shovel
+3198	fishing rod
+319C	crab stew
+31A0	fireplace
+31A4	igloo model
+31A8	snowy tree model
+31AC	snowcone machine
+31B0	treasure chest
+31B4	beach chair
+31B8	beach table
+31BC	hibachi grill
+31C0	surfboard
+31C4	snowboard
+31C8	wave breaker
+31CC	ukulele
+31D0	Diver Dan
+31D4	snow bunny
+31D8	dreadful painting
+31DC	novel painting
+31E0	sleigh
+31E4	Nintendo bench
+31E8	G logo
+31EC	DUMMY
